@@ -1,0 +1,1 @@
+<i {{ $attributes->class(['icon']) }}></i>
